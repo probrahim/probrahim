@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=probrahim" alt="probrahim" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/probrahim brm" target="blank"><img src="https://img.shields.io/twitter/follow/probrahim brm?logo=twitter&style=for-the-badge" alt="probrahim brm" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ProbrahimB" target="blank"><img src="https://img.shields.io/twitter/follow/probrahim brm?logo=twitter&style=for-the-badge" alt="probrahim brm" /></a> </p>
 
 - 🌱 I’m currently learning **Angular,js,python**
 
