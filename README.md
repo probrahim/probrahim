@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/ProbrahimB" target="blank"><img src="https://img.shields.io/twitter/follow/probrahim brm?logo=twitter&style=for-the-badge" alt="probrahim brm" /></a> </p>
 
-- 🌱 I’m currently learning **Angular,js,python**
+- 🌱 I’m currently learning **Angular,java**
 
 - 📫 How to reach me **ibrahimhassani674@gmail.com**
 
